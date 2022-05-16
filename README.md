@@ -7,16 +7,26 @@ Most of these are projects that demonstrate very simple techniques and are not a
 ---
 ### Contents:
 
--Earthquake: Enter a number on the Richter scale to see expected damage report.
+- Consonants: Enter a phrase and recieve back only the consonants.
 
--Income Tax Calculator: Calculates how much income tax you will have to pay for a years salary.
+- Earthquake: Enter a number on the Richter scale to see expected damage report.
 
--InputTest: Command line and console input tests. 
+- Exceptions: A handful of examples of various exceptions and try catch blocks.
+  
+- File Handling: A simple program to either copy a file or join 2 files together.
 
--LengthTest: Prints the length of a string. (I wasnt kidding when I said this was amateur hours.)
+- Fruit Dice - Try to get 2 of a kind!
 
--Rectangle Parameters: Simple program to pass parameters of a rectangle to a rectangle class.
+- Income Tax Calculator: Calculates how much income tax you will have to pay for a years salary.
 
--Stamp Machine: Calculates how many stamps you can get based on a set rate and $ given to machine.
+- InputTest: Command line and console input tests. 
 
--Waterfall Model Quiz: Scrambles the order of the steps in the waterfall model and you must enter the numbers in the correct order.
+- LengthTest: Prints the length of a string. (I wasnt kidding when I said this was amateur hours.)
+
+- Rectangle Parameters: Simple program to pass parameters of a rectangle to a rectangle class.
+
+- Restaurant: Initializes each work station at a restaurant after entering the employee names.
+
+- Stamp Machine: Calculates how many stamps you can get based on a set rate and $ given to machine.
+
+- Waterfall Model Quiz: Scrambles the order of the steps in the waterfall model and you must enter the numbers in the correct order.
