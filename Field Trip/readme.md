@@ -1,1 +1,1 @@
-
+This program calculates the number of busses needed to transport children to and from a field trip.  It prompts the user for the number of children and how many children fit on each bus.  It will also let you know how many children are on the last bus.
