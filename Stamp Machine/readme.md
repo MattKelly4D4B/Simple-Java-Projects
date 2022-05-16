@@ -1,1 +1,1 @@
-
+This program takes a hard coded amount of money and computes the number of first class stamps and number of penny stamps you can aquire with that amout of money. The value used is $4. first class stamps are 34 cents and obviously penny stamps are 1 penny.
