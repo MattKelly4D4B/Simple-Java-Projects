@@ -5,7 +5,7 @@
 Most of these are projects that demonstrate very simple techniques and are not a very good representation of my current skillset.
 
 ---
-###Contents:
+### Contents:
 
 -Earthquake: Enter a number on the Richter scale to see expected damage report.
 
